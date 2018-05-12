@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8387
     wikipedia: http://en.wikipedia.org/wiki/Opie_Read
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18984#The-Starbucks
 gutenberg_issued: '2006-08-03'
 gutenberg_type: Text
 identifiers:
